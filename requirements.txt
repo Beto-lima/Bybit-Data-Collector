@@ -1,0 +1,6 @@
+pybit
+dotenv
+pandas
+pprint
+os
+time
